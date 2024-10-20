@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **hakeemalivi5@gmail.com**
 
-- ⚡ Fun fact **I think, I am comedian.**
+- ⚡ Fun fact **I think, I am a comedian.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
