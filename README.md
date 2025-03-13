@@ -1,4 +1,3 @@
-[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
 <h1 align="center">Hi 👋, I'm Abdul Hakeem</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 
